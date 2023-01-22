@@ -7,6 +7,7 @@ This is a SvelteKit demo project fot [svk-keyclok](https://www.npmjs.com/package
 ```bash
 git clone https://github.com/kitinon/test-svk-keycloak.git
 cd test-svk-keycloak
+npm install
 
 #run a demo Keycloak server with docker
 npm run keycloak
