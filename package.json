@@ -21,6 +21,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-    "svk-keycloak": "^1.0.0"
+    "svk-keycloak": "^1.0.1"
 	}
 }
