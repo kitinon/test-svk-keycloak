@@ -10,6 +10,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json --watch",
     "keycloak": "docker run -d -p 8080:8080 kitinon/test-svk-keycloak-server"
 	},
+  "keywords": ["SvelteKit", "Keycloak", "authentication", "authorization", "security", "middleware", "handle", "OIDC", "OAuth 2.0", "authentication code flow"],
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/kit": "^1.0.0",
